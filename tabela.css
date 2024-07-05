@@ -1,0 +1,5 @@
+table, tr, td {
+    border: 1px solid pink;
+    padding: 2rem;
+    border-collapse: collapse;
+}
